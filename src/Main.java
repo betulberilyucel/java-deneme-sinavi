@@ -15,5 +15,14 @@ public class Main {
         double net=d-(y/4.0);
         int bos=20-(d+y);
               System.out.println("netiniz "+ net + "  bos sayiniz " + bos );
+        if(net>15){
+             System.out.println("cok iyi");
+        }
+        else if(net<15 && net>10){
+             System.out.println("fena degil");
+        }
+        else{
+             System.out.println("cok kotu");
+        }
     }
 }
