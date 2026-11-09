@@ -35,7 +35,7 @@
 ![Akış Şeması](docs/akis-semasi.png)
 
 ## 6. Başarı Durumu Koşulları
-<!-- Koşulları hangi sırayla ve hangi operatörlerle yazdığınızı, nedenini açıklayın. --> if else ve else if ile yazdim çünkü bu şekilde başarı 3 duuma ayrılabilecekti ilk başta net>=15 sonra net<15 && net>=10 ve else yani net 10dan küçük olanlar sırasıyla yaptım.
+<!-- Koşulları hangi sırayla ve hangi operatörlerle yazdığınızı, nedenini açıklayın. --> if else ve else if ile yazdim çünkü bu şekilde başarı 3 duruma ayrılabilecekti ilk başta net>=15 sonra net<15 && net>=10 ve else yani net 10dan küçük olanlar sırasıyla yaptım.
 
 
 ## 7. Test Sonuçları
